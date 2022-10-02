@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added exercises from the Lab of the article List Basics">
-      <change beforePath="$PROJECT_DIR$/03. List Basics/Lab/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. List Basics/Lab/numbers_filter.py" afterDir="false" />
+    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Restructure code in exercise numbers_filter.py from the lab of the article List Basics">
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/faro_shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/football_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/invert_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/multiples_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/number_beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. List Basics/Exercise/survival_of_the_biggest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +47,8 @@
       <recent name="D:\Ivan\SoftUni\Programming Fundamentals with Python\03. List Basics\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.list_statistics">
-    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.survival_of_the_biggest">
+    <configuration name="faro_shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,12 +56,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Lab/courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Exercise/faro_shuffle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="football_cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,12 +78,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Lab/list_statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Exercise/football_cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strange_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiples_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +122,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Lab/strange_zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Exercise/multiples_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_beggars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Exercise/number_beggars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="survival_of_the_biggest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. List Basics/Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. List Basics/Exercise/survival_of_the_biggest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,9 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list_statistics" />
-        <item itemvalue="Python.courses" />
-        <item itemvalue="Python.strange_zoo" />
+        <item itemvalue="Python.survival_of_the_biggest" />
+        <item itemvalue="Python.faro_shuffle" />
+        <item itemvalue="Python.number_beggars" />
+        <item itemvalue="Python.football_cards" />
+        <item itemvalue="Python.multiples_list" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +201,23 @@
       <workItem from="1664389031800" duration="1132000" />
       <workItem from="1664562559907" duration="668000" />
       <workItem from="1664700626622" duration="833000" />
+      <workItem from="1664736584572" duration="8357000" />
     </task>
+    <task id="LOCAL-00001" summary="Added exercises from the Lab of the article List Basics">
+      <created>1664736816178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664736816178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Restructure code in exercise numbers_filter.py from the lab of the article List Basics">
+      <created>1664736920269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664736920269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +234,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added exercises from the Lab of the article List Basics" />
+    <MESSAGE value="Restructure code in exercise numbers_filter.py from the lab of the article List Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restructure code in exercise numbers_filter.py from the lab of the article List Basics" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -174,12 +247,22 @@
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03. List Basics/Exercise/number_beggars.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$courses.coverage" NAME="courses Coverage Results" MODIFIED="1664700758947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$list_statistics.coverage" NAME="list_statistics Coverage Results" MODIFIED="1664701440263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Lab" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$football_cards.coverage" NAME="football_cards Coverage Results" MODIFIED="1664741080272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$number_beggars.coverage" NAME="number_beggars Coverage Results" MODIFIED="1664743366869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$faro_shuffle.coverage" NAME="faro_shuffle Coverage Results" MODIFIED="1664744005778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$multiples_list.coverage" NAME="multiples_list Coverage Results" MODIFIED="1664737715714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$survival_of_the_biggest.coverage" NAME="survival_of_the_biggest Coverage Results" MODIFIED="1664746760043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$strange_zoo.coverage" NAME="strange_zoo Coverage Results" MODIFIED="1664390026963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Lab" />
   </component>
 </project>
