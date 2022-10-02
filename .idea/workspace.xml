@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02. Basic syntax, conditional statements and loops - exercise/.idea/02. Basic syntax, conditional statements and loops - exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. List Basics/Lab/courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. List Basics/Lab/list_statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. List Basics/Lab/strange_zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added exercises from the Lab of the article List Basics">
+      <change beforePath="$PROJECT_DIR$/03. List Basics/Lab/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. List Basics/Lab/numbers_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
