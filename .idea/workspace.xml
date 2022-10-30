@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added first and second exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python">
-      <change afterPath="$PROJECT_DIR$/06. Objects and Classes/Lab/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Objects and Classes/Lab/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06. Objects and Classes/Lab/zoo.py" afterDir="false" />
+    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added 3, 4th and 5th exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python">
+      <change afterPath="$PROJECT_DIR$/06. Objects and Classes/Exersice/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06. Objects and Classes/Exersice/weapon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <recent name="D:\Ivan\SoftUni\Programming Fundamentals with Python\03. List Basics\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.circle">
+  <component name="RunManager" selected="Python.weapon">
     <configuration name="circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,28 +59,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Objects and Classes/Lab/circle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Fundamentals with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06. Objects and Classes/Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Objects and Classes/Lab/comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +119,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06. Objects and Classes/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Objects and Classes/Lab/party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Objects and Classes/Exersice/storage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weapon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Objects and Classes/Exersice/weapon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.weapon" />
+        <item itemvalue="Python.storage" />
         <item itemvalue="Python.circle" />
         <item itemvalue="Python.zoo" />
         <item itemvalue="Python.email" />
-        <item itemvalue="Python.party" />
-        <item itemvalue="Python.comment" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,8 @@
       <workItem from="1666810215867" duration="133000" />
       <workItem from="1666981855151" duration="311000" />
       <workItem from="1667062354742" duration="1962000" />
-      <workItem from="1667066699491" duration="3281000" />
+      <workItem from="1667066699491" duration="3328000" />
+      <workItem from="1667126090944" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises from the Lab of the article List Basics">
       <created>1664736816178</created>
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667063473800</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added 3, 4th and 5th exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python">
+      <created>1667070030546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667070030546</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +315,8 @@
     <MESSAGE value="Added more exercises from the exersice of the article List Advanced" />
     <MESSAGE value="Added exercises from the mid exam of the cource Programming fundamentals with Python" />
     <MESSAGE value="Added first and second exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first and second exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python" />
+    <MESSAGE value="Added 3, 4th and 5th exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3, 4th and 5th exercises from the &quot;Classes and objects&quot; article of the course Programming fundamentals with Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,6 +411,7 @@
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$number_classification.coverage" NAME="number_classification Coverage Results" MODIFIED="1665859860515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$space_travel.coverage" NAME="space_travel Coverage Results" MODIFIED="1666523852408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mid_exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$grades.coverage" NAME="grades Coverage Results" MODIFIED="1664998994712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04. Functions/Lab" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$storage.coverage" NAME="storage Coverage Results" MODIFIED="1667126460899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$faro_shuffle.coverage" NAME="faro_shuffle Coverage Results" MODIFIED="1664744005778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$multiples_list.coverage" NAME="multiples_list Coverage Results" MODIFIED="1664737715714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. List Basics/Exercise" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$absolute_values.coverage" NAME="absolute_values Coverage Results" MODIFIED="1664998680209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04. Functions/Lab" />
