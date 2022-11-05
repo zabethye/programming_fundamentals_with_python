@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added more exercises from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python">
-      <change afterPath="$PROJECT_DIR$/07. Dictionaries/Lab/word_synonyms.py" afterDir="false" />
+    <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added the last exercise from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python">
+      <change afterPath="$PROJECT_DIR$/07. Dictionaries/Exersice/count_chars_in_a_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="D:\Ivan\SoftUni\Programming Fundamentals with Python\03. List Basics\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.word_synonyms">
+  <component name="RunManager" selected="Python.count_chars_in_a_string">
     <configuration name="ascii_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +58,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Dictionaries/Lab/ascii_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="count_chars_in_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. Dictionaries/Exersice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Dictionaries/Exersice/count_chars_in_a_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,28 +124,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Dictionaries/Lab/odd_occurrences.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Fundamentals with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. Dictionaries/Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Dictionaries/Lab/statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_chars_in_a_string" />
         <item itemvalue="Python.word_synonyms" />
         <item itemvalue="Python.odd_occurrences" />
         <item itemvalue="Python.ascii_values" />
         <item itemvalue="Python.students" />
-        <item itemvalue="Python.statistics" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,7 @@
       <workItem from="1667420702856" duration="474000" />
       <workItem from="1667504772692" duration="2565000" />
       <workItem from="1667590855455" duration="19000" />
-      <workItem from="1667668219079" duration="5131000" />
+      <workItem from="1667668219079" duration="5783000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises from the Lab of the article List Basics">
       <created>1664736816178</created>
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667672233903</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added the last exercise from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python">
+      <created>1667673728917</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667673728917</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +380,8 @@
     <MESSAGE value="Added more exercises from the &quot;Classes and objects&quot; exersice article of the course Programming fundamentals with Python" />
     <MESSAGE value="Added 1st and 2nd exercises from the &quot;Dictionaries&quot; article of the course Programming fundamentals with Python" />
     <MESSAGE value="Added more exercises from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more exercises from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python" />
+    <MESSAGE value="Added the last exercise from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the last exercise from the &quot;Dictionaries&quot; lab article of the course Programming fundamentals with Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,7 +500,7 @@
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$grades.coverage" NAME="grades Coverage Results" MODIFIED="1664998994712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04. Functions/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$storage.coverage" NAME="storage Coverage Results" MODIFIED="1667126460899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$pastebin.coverage" NAME="pastebin Coverage Results" MODIFIED="1667127788485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
-    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$word_synonyms.coverage" NAME="word_synonyms Coverage Results" MODIFIED="1667673445654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$word_synonyms.coverage" NAME="word_synonyms Coverage Results" MODIFIED="1667673547523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$weapon.coverage" NAME="weapon Coverage Results" MODIFIED="1667126733594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$odd_occurrences.coverage" NAME="odd_occurrences Coverage Results" MODIFIED="1667672184319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$students.coverage" NAME="students Coverage Results" MODIFIED="1667671467330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
@@ -523,6 +531,7 @@
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$zoo.coverage" NAME="zoo Coverage Results" MODIFIED="1667069109609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$articles.coverage" NAME="articles Coverage Results" MODIFIED="1667331065553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$office_chairs.coverage" NAME="office_chairs Coverage Results" MODIFIED="1665863448691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$count_chars_in_a_string.coverage" NAME="count_chars_in_a_string Coverage Results" MODIFIED="1667674100232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$group_of_10s.coverage" NAME="group_of_10s Coverage Results" MODIFIED="1665912884274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1667669003589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
   </component>
