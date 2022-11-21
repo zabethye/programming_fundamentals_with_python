@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added more exercises from the &quot;Text processing&quot; exercise article of the course Programming fundamentals with Python">
-      <change afterPath="$PROJECT_DIR$/08. Text Proccessing/Exersice/caesar_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08. Text Proccessing/Exersice/emoticon_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08. Text Proccessing/Exersice/extract_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08. Text Proccessing/Exersice/replace_repeating_chars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +223,7 @@
       <workItem from="1667938131642" duration="6386000" />
       <workItem from="1668193990150" duration="703000" />
       <workItem from="1668242779801" duration="8391000" />
-      <workItem from="1669056376353" duration="3419000" />
+      <workItem from="1669056376353" duration="4127000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises from the Lab of the article List Basics">
       <created>1664736816178</created>
@@ -410,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669060917252</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Added more exercises from the &quot;Text processing&quot; exercise article of the course Programming fundamentals with Python">
+      <created>1669062158161</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669062158161</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
