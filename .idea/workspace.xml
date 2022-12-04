@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ab0115-5d65-4dd6-a220-5dfe21c3df0b" name="Changes" comment="Added more exercises from the &quot;Regex&quot; exercise article of the course Programming fundamentals with Python">
-      <change afterPath="$PROJECT_DIR$/09. Regular Expressions/Exercise/find_occurrences_of_word_in_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/degustation_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/easter_eggs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/string_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09. Regular Expressions/Exercise/find_variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/09. Regular Expressions/Exercise/find_variable_names_in_sentences.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,8 @@
       <recent name="D:\Ivan\SoftUni\Programming Fundamentals with Python\03. List Basics\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.find_occurrences_of_word_in_sentence">
-    <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.degustation_party">
+    <configuration name="degustation_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,12 +55,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. Text Proccessing/Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. Text Proccessing/Exersice/caesar_cipher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/degustation_party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="capture_the_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="easter_eggs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Fundamentals with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,56 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09. Regular Expressions/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. Regular Expressions/Exercise/capture_the_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="extract_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Fundamentals with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. Text Proccessing/Exersice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. Text Proccessing/Exersice/extract_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="find_occurrences_of_word_in_sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Fundamentals with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09. Regular Expressions/Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. Regular Expressions/Exercise/find_occurrences_of_word_in_sentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/easter_eggs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,13 +135,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="string_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/string_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Fundamentals with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.find_occurrences_of_word_in_sentence" />
+        <item itemvalue="Python.degustation_party" />
+        <item itemvalue="Python.easter_eggs" />
         <item itemvalue="Python.find_variable_names_in_sentences" />
-        <item itemvalue="Python.capture_the_numbers" />
-        <item itemvalue="Python.caesar_cipher" />
-        <item itemvalue="Python.extract_file" />
+        <item itemvalue="Python.string_game" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +227,8 @@
       <workItem from="1667938131642" duration="6386000" />
       <workItem from="1668193990150" duration="703000" />
       <workItem from="1668242779801" duration="8391000" />
-      <workItem from="1669056376353" duration="6521000" />
+      <workItem from="1669056376353" duration="6768000" />
+      <workItem from="1670146276922" duration="8119000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises from the Lab of the article List Basics">
       <created>1664736816178</created>
@@ -428,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669064730830</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added more exercises from the &quot;Regex&quot; exercise article of the course Programming fundamentals with Python">
+      <created>1669065312425</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669065312425</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,6 +632,21 @@
           <line>4</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/string_game.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/easter_eggs.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/degustation_party.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -630,11 +657,14 @@
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$cooking_masterclass.coverage" NAME="cooking_masterclass Coverage Results" MODIFIED="1666521644477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mid_exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$legendary_farming.coverage" NAME="legendary_farming Coverage Results" MODIFIED="1667943202870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$number_classification.coverage" NAME="number_classification Coverage Results" MODIFIED="1665859860515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$find_occurrences_of_word_in_sentence.coverage" NAME="find_occurrences_of_word_in_sentence Coverage Results" MODIFIED="1669065229722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09. Regular Expressions/Exercise" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$phonebook.coverage" NAME="phonebook Coverage Results" MODIFIED="1667941072067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$bakery.coverage" NAME="bakery Coverage Results" MODIFIED="1667505296905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$degustation_party.coverage" NAME="degustation_party Coverage Results" MODIFIED="1670153858895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$space_travel.coverage" NAME="space_travel Coverage Results" MODIFIED="1666523852408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mid_exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$softuni_parking.coverage" NAME="softuni_parking Coverage Results" MODIFIED="1668245892650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$grades.coverage" NAME="grades Coverage Results" MODIFIED="1664998994712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04. Functions/Lab" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1670146531657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$word_synonyms.coverage" NAME="word_synonyms Coverage Results" MODIFIED="1667673547523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$extract_file.coverage" NAME="extract_file Coverage Results" MODIFIED="1669061441058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08. Text Proccessing/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$weapon.coverage" NAME="weapon Coverage Results" MODIFIED="1667126733594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
@@ -655,10 +685,12 @@
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$office_chairs.coverage" NAME="office_chairs Coverage Results" MODIFIED="1665863448691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$count_chars_in_a_string.coverage" NAME="count_chars_in_a_string Coverage Results" MODIFIED="1667674261471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1667669003589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
-    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$find_variable_names_in_sentences.coverage" NAME="find_variable_names_in_sentences Coverage Results" MODIFIED="1669064611368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09. Regular Expressions/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$find_variable_names_in_sentences.coverage" NAME="find_variable_names_in_sentences Coverage Results" MODIFIED="1670150113028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09. Regular Expressions/Exercise" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$string_game.coverage" NAME="string_game Coverage Results" MODIFIED="1670148632707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$electron_distribution.coverage" NAME="electron_distribution Coverage Results" MODIFIED="1665905797520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05. List Advanced/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$town.coverage" NAME="town Coverage Results" MODIFIED="1667128202702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1669061740650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08. Text Proccessing/Exersice" />
+    <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$easter_eggs.coverage" NAME="easter_eggs Coverage Results" MODIFIED="1670151680788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$storage.coverage" NAME="storage Coverage Results" MODIFIED="1667126460899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$pastebin.coverage" NAME="pastebin Coverage Results" MODIFIED="1667127788485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06. Objects and Classes/Exersice" />
     <SUITE FILE_PATH="coverage/Programming_Fundamentals_with_Python$odd_occurrences.coverage" NAME="odd_occurrences Coverage Results" MODIFIED="1667672184319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07. Dictionaries/Lab" />
